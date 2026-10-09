@@ -1,2 +1,2 @@
 # register-form
-Master Class Registration
+Immersion Course Registration
